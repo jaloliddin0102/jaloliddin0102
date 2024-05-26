@@ -1,1 +1,1 @@
-## Hi, I am Jaloliddin Kholmirzaev <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTcyeDJ2YTdpMzlwdHl1cWJjZnltbnRzazVncXM5OTRuYjg5ZDZ4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gM5qFksULw54NMWyry/giphy.gif" widht = "25" >
+## Hi, I am Jaloliddin Kholmirzaev <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTcyeDJ2YTdpMzlwdHl1cWJjZnltbnRzazVncXM5OTRuYjg5ZDZ4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gM5qFksULw54NMWyry/giphy.gif" width = "25" >
